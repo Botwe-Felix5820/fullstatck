@@ -1,0 +1,39 @@
+[{
+        "id": 1,
+        "product-name": "Yam",
+        "product-price": 300,
+        "product-quantity": 50
+    },
+    {
+        "id": 2,
+        "product-name": "Banana",
+        "product-price": 60,
+        "product-quantity": 10
+    },
+    {
+        "id": 3,
+        "product-name": "Mango",
+        "product-price": 5,
+        "product-quantity": 100
+    },
+    {
+        "id": 4,
+        "product-name": "Beans",
+        "product-price": 100,
+        "product-quantity": 50
+    },
+    {
+        "id": 5,
+        "product-name": "Ric3",
+        "product-price": 500,
+        "product-quantity": 50
+    },
+    {
+        "id": 6,
+        "product-name": "Cabbage",
+        "product-price": 600,
+        "product-quantity": 50
+    }
+
+
+]
